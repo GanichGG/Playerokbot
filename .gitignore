@@ -1,0 +1,10 @@
+# Секреты и runtime-данные бота
+ARR/env.txt
+.env
+.env.txt
+env.txt
+env
+ARR/state.json
+ARR/*.bak
+*.tmp
+__pycache__/
